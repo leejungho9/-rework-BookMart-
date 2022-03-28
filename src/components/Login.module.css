@@ -1,0 +1,23 @@
+ .login_form {
+    max-width: 300px;
+  }
+ .ant_col_rtl .login_form_forgot {
+    float: left;
+  }
+ .login_form_button {
+    width: 100%;
+  }
+  .singup_form_button{
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+  }
+  .signin_title {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(157 182 255);
+    text-transform: uppercase;
+    margin-bottom: 20px;
+  }
+  
